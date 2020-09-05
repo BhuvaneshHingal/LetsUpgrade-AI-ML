@@ -1,0 +1,9 @@
+1. Person with income less than 101 has a low probability of getting a loan
+2. Person with income greater than 101 and a CCAvg of less than 2.5 has a lesser chance of getting a loan sanctioned
+3. Person with CCAvg greater than 3.5 and an Income which is less than 88 but less than 113 has a low probability of getting a loan
+4. Person with CCAvg greater than 3.5, an Income which is greater than 88 but less than 113 and an Undergraduate has a low probability of getting a loan
+5. Person with CCAvg greater than 3.5, an Income which is greater than 88 but less than 113 and is a Graduate has a higher probability of getting a loan
+6. Person with CCAvg greater than 3.5, an Income which is greater than 89 but less than 113 and is a Professional/ completed advanced studies has a high probability of getting a loan
+7. Individuals with income greater than 113 and only an Undergraduate degree have a very low probability of getting a loan
+8. Applicants who are Graduates or Advanced Professionals with an income greater than 116.5 have the highest probability of getting a loan
+9. Applicants who are Graduates or Advanced Professionals with an income less than 116.5 but greater than 113 having a CCAvg of less than 3.5 have low probability of getting a loan

@@ -1,0 +1,5 @@
+1. Females with fare less than 24.075 have less probability of surviving
+2. Females with fare greater than 28.85 and less than 48.20 have more probability of surviving
+3. Males who have age less than 7 and fare less than 20.825 have more probability of surviving
+4. Males with fare less than 26.27 and age greater than 13 years have a higher chance of surviving
+5. Males with fare greater than 26.46 also have a higher survival chance

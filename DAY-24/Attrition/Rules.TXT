@@ -1,0 +1,7 @@
+1. Employees with total working years less than 1.5 having age less than 33 and a monthly income which is lower than 23,140 possess a lower chance of attrition
+2. Employees with age greater than 18 but less than 33, monthly income greater than 23,140 but less than 112,610 and total working years less than 1.5 have a higher probability of attrition
+3. Employees with total working years less than 1.5, age greater than 23 but less 33 have the same count of attrition. Meanwhile, those with a monthly income greater than 32,530 tend to have less attrition.
+4. Employees with total working years less than 1.5, age less than 33 with a monthly income of more than 112,610 have lower attrition
+5. Employees with total working years less than 1.5, age more than 33 have lower attrition 
+6. Employees with total working years greater than 1.5, age less than 33 have low probability attrition
+7. Employees with total working years greater than 5.5, age more than 33 and a monthly income which is more than 103,000 have a lower probability of attrition
